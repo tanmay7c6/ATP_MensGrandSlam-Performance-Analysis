@@ -3,9 +3,9 @@
 * __match_id:__ Unique ID for each game, it is made up of four parts
         * __eg:__ m_2018_A_2
           * __m__-> Mens 
-             * __2018__ -> Year
-              * __A__ -> Type of tournament *(A- Australian Open, F- French Open, W - Wimbledon. U - US Open)*
-              * __2__-> Game number in that particular year and championship for mens
+          * __2018__ -> Year
+          * __A__ -> Type of tournament *(A- Australian Open, F- French Open, W - Wimbledon. U - US Open)*
+          * __2__-> Game number in that particular year and championship for mens
 * __round:__ gives which round did tha match belong to *eg: 1st Round, 2nd Round, Quarterfinal, Semifinal etc
 * __avg_minutes_game:__ Average time to win a game(*in minutes*)
 * __avg_seconds_points:__ Average time to win a point(*in seconds*)
@@ -24,14 +24,14 @@
 
 ## File 3: Stats.csv
 * __match_id:__ Unique ID for each game, it is made up of four parts
-          __eg:__ m_2018_A_2
-              __m__-> Mens 
-              __2018__ -> Year
-              __A__ -> Type of tournament (*A- Australian Open, F- French Open, W - Wimbledon. U - US Open*)
-              __2__-> Game number in that particular year and championship for mens
+          * __eg:__ m_2018_A_2
+            * __m__-> Mens 
+            * __2018__ -> Year
+            * __A__ -> Type of tournament (*A- Australian Open, F- French Open, W - Wimbledon. U - US Open*)
+            * __2__-> Game number in that particular year and championship for mens
 * __player_id:__ Unique ID assigned to a player, represents ID of player playing the match
 * __pts:__ Total points won by the player in the tournament
-* __rank:__ ATP Rank of the player who playing the match
+* __rank:__ ATP Rank of the pla* yer who playing the match
 * __winner:__ True or False to represent whether a player won or loss the game
 * __sets:__ Number of sets won by the player in the particular match
 * __1:__ total games won in set 1
