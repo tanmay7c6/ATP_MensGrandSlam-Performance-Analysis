@@ -1,5 +1,5 @@
-**ATP Dataset Variable Definitions**
-**File 1 : Match.csv**
+#**ATP Dataset Variable Definitions**
+##**File 1 : Match.csv**
 * __match_id:__ Unique ID for each game, it is made up of four parts
         * __eg:__ m_2018_A_2
           * __m__-> Mens 
@@ -14,7 +14,7 @@
 * __year:__ Year of the Tournament
 * __match_minutes:__ Length of match(*in minutes*)
 
-__File 2: Player.csv__
+##__File 2: Player.csv__
 
 * __player_id:__ Unique ID assigned to a player
 * __name:__ Name of the Player
@@ -22,7 +22,7 @@ __File 2: Player.csv__
 * __country:__ Country represented by the player
 * __birthday:__ Date of birth of the player
 
-# File 3: Stats.csv
+## File 3: Stats.csv
 * __match_id:__ Unique ID for each game, it is made up of four parts
           __eg:__ m_2018_A_2
               __m__-> Mens 
