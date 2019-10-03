@@ -1,7 +1,7 @@
 # **ATP Dataset Variable Definitions**
 ## File 1 : Match.csv
 * __match_id:__ Unique ID for each game, it is made up of four parts
-	* __eg:__ in match_id **m_2018_A_2**
+	 * __Example:__ in match_id **m_2018_A_2**
 		* __m__-> Mens 
 		* __2018__ -> Year of the tournament
 		* __A__ -> Type of tournament *(A- Australian Open, F- French Open, W - Wimbledon. U - US Open)
