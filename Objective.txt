@@ -1,0 +1,2 @@
+# The objective of the excersise is to understand the correlation between performance of a player across the tournament to predict his probability of winning it.
+# Part of this excercise is also to understand how the aggregated statistics like length of the game, average points in the game, total points won etc has changed over the years
