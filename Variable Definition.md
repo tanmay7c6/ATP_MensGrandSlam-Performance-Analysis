@@ -30,7 +30,7 @@
 		* __A__ -> Type of tournament *(A- Australian Open, F- French Open, W - Wimbledon. U - US Open)
 		* __2__-> Game number in that particular year and championship for mens
 * __player_id:__ Unique ID assigned to a player, represents ID of player playing the match
-* __pts:__ Total points won by the player in the tournament
+* __pts:__ Player ranking points
 * __rank:__ ATP Rank of the pla* yer who playing the match
 * __winner:__ True or False to represent whether a player won or loss the game
 * __sets:__ Number of sets won by the player in the particular match
